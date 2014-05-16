@@ -12,7 +12,7 @@ USING_NS_CC;
 
 enum {
 	kWallTile,
-	kPeach
+	kCoint
 };
 
 enum  {
