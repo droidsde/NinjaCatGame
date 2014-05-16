@@ -2,7 +2,7 @@
 #define __BLOCK_H__
 
 #define TILE_H_SIZE 10
-#define TILE_W_SIZE 5.8
+#define TILE_W_SIZE 4
 
 #include "cocos2d.h"
 #include "GameSprite.h"
